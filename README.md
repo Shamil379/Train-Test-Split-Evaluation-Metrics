@@ -1,15 +1,15 @@
 ## 📊 Heart Disease Prediction – Model Training & Evaluation
-📁 Dataset
+## 📁 Dataset
 
 heart.csv
 
 Contains medical attributes used to predict the presence of heart disease.
 
-🎯 Objective
+## 🎯 Objective
 
 To train a simple machine learning model and evaluate its performance in predicting heart disease.
 
-🛠️ Steps Performed
+## 🛠️ Steps Performed
 1. Train–Test Split
 
 The dataset was split into 80% training data and 20% testing data.
@@ -50,14 +50,6 @@ High recall is important in medical applications to reduce missed diagnoses.
 
 The model serves as a strong baseline classifier.
 
-📦 Deliverables
-
-✅ Trained Logistic Regression model (.pkl file)
-
-✅ Evaluation report with metrics and confusion matrix
-
-✅ Clear explanation of results and methodology
-
-📌 Conclusion
+## 📌 Conclusion
 
 This project demonstrates a complete machine learning workflow including data splitting, model training, prediction, and evaluation using a real-world healthcare dataset.
